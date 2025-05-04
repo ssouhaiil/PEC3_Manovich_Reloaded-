@@ -2,13 +2,16 @@
 <h1 align="center">PEC3_Manovich_Reloaded</h1>
 
 
-## Introducción
+<h2 align="center">Introducción</h2>
 
 En la actualidad, muchas formas de entretenimiento combinan tecnologías distintas para crear experiencias nuevas y más inmersivas. Esta mezcla de medios, conocida como hibridación, permite que el espectador o jugador no solo reciba el contenido, sino que también participe activamente en él. 
 
 En este ensayo presento dos ejemplos que ilustran bien este fenómeno: *iRacing*, un simulador de carreras que mezcla deporte real con simulación digital, y *Late Shift*, una película interactiva que une cine y videojuegos. Ambos casos muestran cómo esta fusión de tecnologías transforma la manera en que vivimos el ocio y lo convierte en una experiencia más rica y personal.
 
-## Carreras + Simulación
+
+
+<h2 align="center">Carreras + Simulación</h2>
+
 
 El primer ejemplo de hibridación que quiero compartir es *iRacing*, un simulador de carreras que me ha tocado muy de cerca. Desde pequeño, corría en *karts*, y cuando descubrí este simulador, me sorprendió la precisión con la que replicaba la experiencia de conducir. No era como otros juegos *arcade*: aquí había una sensación de realismo que me impactó desde el primer momento.
 
@@ -24,10 +27,13 @@ Además, el *hardware* ha evolucionado mucho: desde volantes básicos como el *T
 
 *iRacing* no es solo un juego: es una parte importante de mi relación con el automovilismo.
 
+<p align="center">
+  <img src=https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/IRacing_Logo%2C_2021.svg/250px-IRacing_Logo%2C_2021.svg.png alt=**iRacing** width="400"/>
 
-![Carreras en **iracing**](https://live.staticflickr.com/3372/4564421794_a012c06e15_b.jpg)
 
-## Videojuegos + Cine
+
+<h2 align="center">Videojuegos + Cine</h2>
+
 
 El segundo ejemplo es *Late Shift*, una película interactiva que vi con mi pareja. Al verla, descubrimos que no era una película convencional: cada cierto tiempo debíamos tomar decisiones que alteraban el desarrollo de la historia.
 
@@ -41,7 +47,14 @@ Personalmente, no suelo repetir contenido, por lo que si la hubiera visto solo, 
 
 *Late Shift* convierte una historia en algo activo, social e inmersivo. Gracias a *CtrlMovie*, el cine y el videojuego se funden en un nuevo lenguaje donde el espectador ya no es pasivo, sino parte del relato.
 
-## Conclusión
+
+<p align="center">
+  <img src=https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Late_Shift_cover.jpg/250px-Late_Shift_cover.jpg alt=**Late Shift** width="400"/>
+</p>
+
+
+<h2 align="center">Conclusión</h2>
+
 
 Después de probar *iRacing* y ver *Late Shift*, me he dado cuenta de cómo la tecnología puede cambiar por completo la forma en que vivimos el entretenimiento. Ya no solo se trata de mirar o jugar, sino de formar parte de lo que pasa. En mi caso, *iRacing* me conecta con algo que siempre me ha gustado: correr. Y *Late Shift* me hizo ver el cine como algo que también se puede decidir y compartir.
 
@@ -49,26 +62,50 @@ Después de probar *iRacing* y ver *Late Shift*, me he dado cuenta de cómo la t
 
 Estos dos ejemplos mezclan lo que ya conocíamos con algo nuevo, y nos invitan a vivirlo de otra manera.
 
----
 
-## Bibliografía
 
-- [iRacing: Membership](https://www.iracing.com/membership/)
-- [iRacing: Car Technology](https://www.iracing.com/car-technology/)
-- [iRacing: License Classes](https://www.iracing.com/getting-started/getting-started-license-classes/iracing.com+1iracing.com+1)
-- [iRacing: Physics Modeling](https://www.iracing.com/physics-modeling-ntm-v7-info-plus/iracing.com)
-- [iRacing: Ongoing Pursuit of Race Simulation Realism](https://www.iracing.com/iracings-ongoing-pursuit-of-race-simulation-realism/iracing.com)
-- [iRacing Support: License Explained](https://support.iracing.com/support/solutions/articles/31000133459-iracing-how-to-what-are-licenses-iRacing+4iRacing+4iRacing+4)
-- [iRacing Development Update - February 2025](https://www.iracing.com/iracing-development-update-february-2025/)
-- [Guía de marcas de hardware para simracing - Zalem Simulators](https://zalem.es/blog_simracing/news/guia-de-marcas-de-hardware-para-simracing)
-- [El impacto del hardware en la simulación de carreras - Simugal](https://simugal.com/guias-y-tutoriales/el-impacto-del-hardware-en-la-simulacion-de-carreras/)
-- [Late Shift - Wikipedia (alemán)](https://de.wikipedia.org/wiki/Late_Shift)
-- [Late Shift - Metacritic](https://www.metacritic.com/game/late-shift/)
-- [Late Shift - CtrlMovie](https://ctrlmovie.com/late-shift)
-- [Late Shift: Interactive movie review - Ars Technica](https://arstechnica.com/gaming/2016/12/late-shift-interactive-movie-review/)
-- [CtrlMovie Technology](https://ctrlmovie.com/technology)
-- [CtrlMovie](https://ctrlmovie.com/)
-- *Manovich, L.* *El software toma el mando*. Universitat Oberta de Catalunya (UOC)
+
+<h2 align="center">Bibliografía
+</h2>
+
+
+iRacing: Membership. (2025, 1 de mayo). iRacing. https://www.iracing.com/membership/
+
+iRacing: Car Technology. (2025, 2 de mayo). iRacing. https://www.iracing.com/car-technology/
+
+iRacing: License Classes. (2025, 4 de mayo). iRacing. https://www.iracing.com/getting-started/getting-started-license-classes/
+
+iRacing: Physics Modeling. (2025, 3 de mayo). iRacing. https://www.iracing.com/physics-modeling-ntm-v7-info-plus/
+
+iRacing: Ongoing Pursuit of Race Simulation Realism. (2025, 2 de mayo). iRacing. https://www.iracing.com/iracings-ongoing-pursuit-of-race-simulation-realism/
+
+iRacing: License Explained. (2025, 1 de mayo). iRacing Support. https://support.iracing.com/support/solutions/articles/31000133459-iracing-how-to-what-are-licenses
+
+iRacing: Development Update - February 2025. (2025, 2 de mayo). iRacing. https://www.iracing.com/iracing-development-update-february-2025/
+
+Guía de marcas de hardware para simracing. (2025, 1 de mayo). Zalem Simulators. https://zalem.es/blog_simracing/news/guia-de-marcas-de-hardware-para-simracing
+
+El impacto del hardware en la simulación de carreras. (2025, 3 de mayo). Simugal. https://simugal.com/guias-y-tutoriales/el-impacto-del-hardware-en-la-simulacion-de-carreras/
+
+Late Shift. (2025, 1 de mayo). Wikipedia (alemán). https://de.wikipedia.org/wiki/Late_Shift
+
+Late Shift. (2025, 4 de mayo). Metacritic. https://www.metacritic.com/game/late-shift/
+
+Late Shift. (2025, 2 de mayo). CtrlMovie. https://ctrlmovie.com/late-shift
+
+Late Shift: Interactive movie review. (2025, 3 de mayo). Ars Technica. https://arstechnica.com/gaming/2016/12/late-shift-interactive-movie-review/
+
+CtrlMovie Technology. (2025, 4 de mayo). CtrlMovie. https://ctrlmovie.com/technology
+
+CtrlMovie. (2025, 3 de mayo). CtrlMovie. https://ctrlmovie.com/
+
+Manovich, L. *El software toma el mando*. Universitat Oberta de Catalunya (UOC).
+
+iRacing. (2021). *IRacing Logo (versión 2021)*. Wikipedia. https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/IRacing_Logo%2C_2021.svg/250px-IRacing_Logo%2C_2021.svg.png  
+  *Uso educativo sin fines comerciales. Imagen utilizada bajo los principios de uso justo (fair use).*
+
+CtrlMovie. (2016). *Portada del juego Late Shift*. Wikipedia. https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Late_Shift_cover.jpg/250px-Late_Shift_cover.jpg  
+  *Uso educativo sin fines comerciales. Imagen utilizada bajo los principios de uso justo (fair use).*
 
 
 
