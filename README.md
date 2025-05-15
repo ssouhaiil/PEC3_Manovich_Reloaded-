@@ -53,14 +53,6 @@ Personalmente, no suelo repetir contenido, por lo que si la hubiera visto solo, 
 </p>
 
 
-<h2 align="center">Conclusión</h2>
-
-
-Después de probar *iRacing* y ver *Late Shift*, me he dado cuenta de cómo la tecnología puede cambiar por completo la forma en que vivimos el entretenimiento. Ya no solo se trata de mirar o jugar, sino de formar parte de lo que pasa. En mi caso, *iRacing* me conecta con algo que siempre me ha gustado: correr. Y *Late Shift* me hizo ver el cine como algo que también se puede decidir y compartir.
-
-> "*Cada nueva tecnología de medios transforma no solo el contenido sino también su forma cultural*" — Lev Manovich
-
-Estos dos ejemplos mezclan lo que ya conocíamos con algo nuevo, y nos invitan a vivirlo de otra manera.
 
 <h2 align="center">Análisis desde la perspectiva de Manovich</h2>
 
@@ -71,6 +63,16 @@ En *iRacing*, por ejemplo, no estamos ante un simple videojuego de coches. Lo qu
 En *Late Shift*, pasa algo parecido. No es solo una película con botones. Es una historia que tú vas construyendo con tus decisiones. Combina el cine con la forma de jugar de los videojuegos, pero no se queda en una mezcla simple: crea algo diferente, donde el espectador ya no solo mira, sino que participa activamente. Como dice Manovich, esto genera **nuevas formas de interacción** y de narrar historias, porque cada decisión cambia lo que pasa, y eso no lo hace una película normal.
 
 Entonces, la diferencia entre hibridación y multimedia está en que la hibridación **no solo junta cosas**, sino que las mezcla tan bien que da lugar a **algo nuevo**, con un lenguaje distinto, una experiencia distinta, y una forma distinta de participar. En los dos casos, se mezclan medios, tecnologías, emociones y formas de interactuar, y eso es justo lo que Manovich explica como hibidación.
+
+
+<h2 align="center">Conclusión</h2>
+
+
+Después de probar *iRacing* y ver *Late Shift*, me he dado cuenta de cómo la tecnología puede cambiar por completo la forma en que vivimos el entretenimiento. Ya no solo se trata de mirar o jugar, sino de formar parte de lo que pasa. En mi caso, *iRacing* me conecta con algo que siempre me ha gustado: correr. Y *Late Shift* me hizo ver el cine como algo que también se puede decidir y compartir.
+
+> "*Cada nueva tecnología de medios transforma no solo el contenido sino también su forma cultural*" — Lev Manovich
+
+Estos dos ejemplos mezclan lo que ya conocíamos con algo nuevo, y nos invitan a vivirlo de otra manera.
 
 
 <h2 align="center">Bibliografía
