@@ -62,7 +62,15 @@ Después de probar *iRacing* y ver *Late Shift*, me he dado cuenta de cómo la t
 
 Estos dos ejemplos mezclan lo que ya conocíamos con algo nuevo, y nos invitan a vivirlo de otra manera.
 
+<h2 align="center">Análisis desde la perspectiva de Manovich</h2>
 
+Después de revisar lo que dice Lev Manovich sobre la hibridación, me he dado cuenta de que los ejemplos que he elegido, *iRacing* y *Late Shift*, no son solo una mezcla de tecnologías o medios como pasa con lo multimedia, sino que son algo más: son hibridaciones reales. Es decir, no solo juntan cosas, sino que crean **formas nuevas de experimentar** el contenido.
+
+En *iRacing*, por ejemplo, no estamos ante un simple videojuego de coches. Lo que se mezcla aquí es el automovilismo real con la simulación digital. Como dice Manovich, esto es una **nueva forma de medio** porque no se parece del todo ni a las carreras reales ni a un juego normal. Aquí la experiencia es muy realista, con físicas avanzadas, coches con datos reales, y hasta un sistema de competición profesional. Todo eso crea una **forma de entretenimiento nueva**, donde no solo juegas, sino que entrenas, compites y te relacionas con otros como si fuera en la vida real.
+
+En *Late Shift*, pasa algo parecido. No es solo una película con botones. Es una historia que tú vas construyendo con tus decisiones. Combina el cine con la forma de jugar de los videojuegos, pero no se queda en una mezcla simple: crea algo diferente, donde el espectador ya no solo mira, sino que participa activamente. Como dice Manovich, esto genera **nuevas formas de interacción** y de narrar historias, porque cada decisión cambia lo que pasa, y eso no lo hace una película normal.
+
+Entonces, la diferencia entre hibridación y multimedia está en que la hibridación **no solo junta cosas**, sino que las mezcla tan bien que da lugar a **algo nuevo**, con un lenguaje distinto, una experiencia distinta, y una forma distinta de participar. En los dos casos, se mezclan medios, tecnologías, emociones y formas de interactuar, y eso es justo lo que Manovich explica como hibidación.
 
 
 <h2 align="center">Bibliografía
